@@ -1,0 +1,22 @@
+footer {
+  padding: 60px;
+  background-color: #2C2B2B;
+  text-align: center;
+}
+
+footer p {
+  color: #6b6c6c;
+}
+
+footer ul{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding-left: 0;
+}
+
+footer a{
+  color: #1EDD88;
+  font-size: 30px;
+  margin: 0 8px;
+}
